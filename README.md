@@ -2,7 +2,7 @@
 - Nome: `Ivanilson da Cruz Araújo Junior`
 - Idade: `19`
 - Email para contato: [ivanilsonaraujojr@gmail.com](mailto:ivanilsonaraujojr@gmail.com)
-- Atualmente focado em me tornar um Engenheiro DevOps
+- Atualmente focado em me tornar um `Engenheiro DevOps`
 
 ### :crystal_ball: Conhecimentos:
 * Java
