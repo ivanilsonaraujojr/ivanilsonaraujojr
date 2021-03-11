@@ -1,6 +1,6 @@
 ### :bust_in_silhouette: Sobre mim: 
 - Nome: `Ivanilson da Cruz Araújo Junior`
-- Idade: `19`
+- Idade: `20`
 - Email para contato: [ivanilsonaraujojr@gmail.com](mailto:ivanilsonaraujojr@gmail.com)
 - Atualmente focado em me tornar um `Engenheiro DevOps`
 
