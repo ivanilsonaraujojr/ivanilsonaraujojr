@@ -9,6 +9,7 @@
 * JavaScript
 * Git
 * Docker
+* Golang
 * Kubernetes
 * Gitlab CI
 * Linux
