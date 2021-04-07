@@ -11,6 +11,8 @@
 * Docker
 * Golang
 * Kubernetes
+* Terraform
+* Helm
 * Gitlab CI
 * Linux
 * HTML
