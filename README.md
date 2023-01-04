@@ -4,19 +4,22 @@
 - Email para contato: [ivanilsonaraujojr@gmail.com](mailto:ivanilsonaraujojr@gmail.com)
 
 ### :crystal_ball: Conhecimentos:
-* Java
 * JavaScript
 * Git
 * Docker
-* Golang
+* Python
 * Kubernetes
 * Terraform
 * Helm
 * Ansible
-* Gitlab CI
+* CI/CD
 * Linux
-* HTML
-* CSS
+* Prometheus
+* Grafana
+* Cloud Computing
+* DevOps
+* AWX
+* Containers
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivanilsonaraujojr&show_icons=true&theme=radical"> 
