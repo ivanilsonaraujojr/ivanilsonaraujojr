@@ -1,6 +1,6 @@
 ### :bust_in_silhouette: Sobre mim: 
 - Nome: `Ivanilson da Cruz Araújo Junior`
-- Idade: `21`
+- Idade: `23`
 - Email para contato: [ivanilsonaraujojr@gmail.com](mailto:ivanilsonaraujojr@gmail.com)
 
 ### :crystal_ball: Conhecimentos:
